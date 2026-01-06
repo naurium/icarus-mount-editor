@@ -1,5 +1,7 @@
 # Icarus Mount Editor
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/naurium/icarus-mount-editor/badge)](https://scorecard.dev/viewer/?uri=github.com/naurium/icarus-mount-editor)
+
 A Python toolkit for editing mount save data in [Icarus](https://store.steampowered.com/app/1149460/Icarus/).
 
 ![Icarus Mount Editor Architecture](assets/icarus-mount-editor.jpg)
